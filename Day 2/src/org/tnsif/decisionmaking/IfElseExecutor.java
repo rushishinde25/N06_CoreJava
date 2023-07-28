@@ -1,5 +1,5 @@
 /* Program to demonstrate on to check the person is eligible
-to donate the blood or not  using if...else */
+   to donate the blood or not  using if...else */
 package org.tnsif.decisionmaking;
 
 import java.util.Scanner;
