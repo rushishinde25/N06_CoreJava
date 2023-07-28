@@ -11,8 +11,8 @@ public class TernaryOperatorsDemo {
 		int num=SC.nextInt();
 		String result=(num%2==0)?"Even":"Odd";
 		System.out.println("Number is :"+result);
-		
 
+		SC.close();
 	}
 
 }

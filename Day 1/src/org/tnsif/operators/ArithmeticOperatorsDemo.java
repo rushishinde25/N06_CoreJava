@@ -17,8 +17,8 @@ public class ArithmeticOperatorsDemo {
 		System.out.println(num1+num2);
 		System.out.println(num1-num2);
 		System.out.println(num1*num2);	
-		System.out.println(num1/num2);
-		System.out.println(num1%num2);
+		System.out.println(num1/num2);  // returns quotient
+		System.out.println(num1%num2);  // returns remainder
 		
 //		sc.close(); or add SuppressedWarnig to resource like line no 10 to sc to close the warning		
 
