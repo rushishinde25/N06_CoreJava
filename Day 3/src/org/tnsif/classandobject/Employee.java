@@ -11,7 +11,7 @@ public class Employee {
 	
 	// method declaration and definition
 	void display() {
-	//	System.out.println("Emp ID:"+empID+" "+"Emp Name:"+ empName+" "+"Salary:"+salary+" "+"Department:"+department);
+		System.out.println("Emp ID:"+empID+" "+"Emp Name:"+ empName+" "+"Salary:"+salary+" "+"Department:"+department);
 		
 	}
 	/*
