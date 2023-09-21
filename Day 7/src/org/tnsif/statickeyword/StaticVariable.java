@@ -55,6 +55,7 @@ public class StaticVariable {
 		
 		Employee e1= new Employee();
 		e1.setEmpID(2);
+		e1.setCompanyName("Abc");
 		e1.display();
 		
 	//	System.out.println(e);  // calls the toString method, it returns only empId and name as here company is static
