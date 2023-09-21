@@ -12,10 +12,10 @@ public class IncrementDecrementOperatorsDemo {
 		System.out.println(y); //7
 		
 		System.out.println("Decrement Operator");
-		int res2=x-- + --y;
-		System.out.println(res2);
-		System.out.println(x); 
-		System.out.println(y); 
+		int res2=x-- + --y;     //23+7
+		System.out.println(res2); //30
+		System.out.println(x);    //23
+		System.out.println(y);   //6
 
 	}
 
