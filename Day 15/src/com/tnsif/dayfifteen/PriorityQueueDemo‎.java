@@ -3,6 +3,7 @@ package com.tnsif.dayfifteen;
 import java.util.ArrayDeque;
 import java.util.PriorityQueue;
 
+@SuppressWarnings("unused")
 class PriorityQueueDemo {
 
 	public static void main(String[] args) {
